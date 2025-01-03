@@ -8,10 +8,7 @@ Software Developer | Web Developer
 I have over 3 years of experience working with Python, Django, Flask, Django-RestAPi, JavaScript, Vue JS, CSS, and HTML. I specialize as a Back-end developer. I use PostgreSQL, MySql, MariaDB, Cassandra, and Reds for Databases. I am also proficient with working in Amazon Web Services(AWS), From creating servers using EC2 instances to using S3 buckets for storing static files. RDS for database and Route 54 to map my EC2 instances IP addresses to domain names just to mention a few. For fashion control, I use Git or Gitlab. I use Git Actions to test my code for any added features before I can merge them into the code base.
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🖥️  See my portfolio at [welearncodes](https://welearncodes.com)
 * ✉️  You can contact me at [dennismusembi2@gmail.com](mailto:dennismusembi2@gmail.com)
-* 🚀  I'm currently working on [Music streaming application]
-* 🧠  I'm learning NumPy and matplotlib
 * 🤝  I'm open to collaborating on Any projects that mainly use Python or any of the Python frameworks such as Django, Django-RestAPI, FastAPI, and Flask.
 
 ### Skills
