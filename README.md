@@ -34,7 +34,7 @@ I'm a passionate software engineer with over 4 years of hands-on experience buil
 
 ## 🤝 Let’s Collaborate
 
-I’m open to contributing to projects involving **Python**, **C++**, **Java**, **Django**, **Flask**, or **FastAPI** — especially those focusing on **backend systems**, **real-time applications**, or **cloud deployment**.
+I’m open to contributing to projects involving **Python**, **C++**, **Java**, **Django**, **Flask**, or **FastAPI** : especially those focusing on **backend systems**, **real-time applications**, or **cloud deployment**.
 
 ---
 
@@ -43,6 +43,8 @@ I’m open to contributing to projects involving **Python**, **C++**, **Java**, 
 - 📍 **Location:** Nairobi, Kenya  
 - ✉️ **Email:** [dennismusembi2@gmail.com](mailto:dennismusembi2@gmail.com)  
 - 🌐 **Portfolio / Projects:** [GitHub Profile](https://github.com/Dennismwendwa)
+
+"Clean code, scalable architecture, and continuous learning:- that’s my developer philosophy."
 
 
 ### Socials
