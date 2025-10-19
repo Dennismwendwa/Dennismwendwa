@@ -1,22 +1,48 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dennis Mwendwa Musembi
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi, I'm Dennis Musembi Mwendwa
 ==============================================================================================================================================
 
-Software Developer | Web Developer
-----------------------------------
+Software Developer | Backend Engineer | Cloud Enthusiast
 
-I have over 3 years of experience working with Python, Django, Flask, Django-RestAPi, JavaScript, Vue JS, CSS, and HTML. I specialize as a Back-end developer. I use PostgreSQL, MySql, MariaDB, Cassandra, and Reds for Databases. I am also proficient with working in Amazon Web Services(AWS), From creating servers using EC2 instances to using S3 buckets for storing static files. RDS for database and Route 54 to map my EC2 instances IP addresses to domain names just to mention a few. For fashion control, I use Git or Gitlab. I use Git Actions to test my code for any added features before I can merge them into the code base.
+I'm a passionate software engineer with over 4 years of hands-on experience building scalable, secure, and high-performance applications. I specialize in backend development with a strong foundation in Python, C++, and Java.
 
-* 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [dennismusembi2@gmail.com](mailto:dennismusembi2@gmail.com)
-* 🤝  I'm open to collaborating on Any projects that mainly use Python or any of the Python frameworks such as Django, Django-RestAPI, FastAPI, and Flask.
+## 🧠 About Me
 
-### Skills
+- 💻 Experienced in **Python**, **Django**, **Flask**, and **Django REST Framework** for backend systems and APIs.  
+- ⚙️ Skilled in **C++** and **Java**, applying object-oriented principles to develop efficient and maintainable applications.  
+- 🎨 Proficient in **JavaScript**, **Vue.js**, **HTML5**, **CSS3**, and **Bootstrap** for responsive web interfaces.  
+- 🗃️ Experienced with databases including **PostgreSQL**, **MySQL**, **MariaDB**, **Cassandra**, and **Redis**.  
+- ☁️ Cloud-savvy with **AWS** (EC2, S3, RDS, Route 53) — handling server provisioning, deployment, and storage.  
+- 🐧 Comfortable in **Linux** environments with experience in **Docker** for containerized development.  
+- 🔁 Proficient in **Git**, **GitLab**, and **GitHub Actions** for version control, CI/CD, and automated testing.  
 
+## 🧩 Tech Stack
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
-</p>
+### 🖥️ Languages & Frameworks
+**Python** • **C++** • **Java** • **Django** • **Flask** • **FastAPI** • **JavaScript** • **Vue.js** • **HTML5** • **CSS3** • **Bootstrap**
+
+### 🗄️ Databases
+**PostgreSQL** • **MySQL** • **MariaDB** • **Cassandra** • **Redis** • **MongoDB**
+
+### ☁️ DevOps & Cloud
+**AWS** (EC2, S3, RDS, Route 53) • **Docker** • **DigitalOcean** • **Linux**
+
+### ⚙️ Tools & Others
+**Git** • **GitHub** • **GitLab** • **GitHub Actions** • **SQLAlchemy** • **Webpack**
+
+---
+
+## 🤝 Let’s Collaborate
+
+I’m open to contributing to projects involving **Python**, **C++**, **Java**, **Django**, **Flask**, or **FastAPI** — especially those focusing on **backend systems**, **real-time applications**, or **cloud deployment**.
+
+---
+
+## 📫 Contact Me
+
+- 📍 **Location:** Nairobi, Kenya  
+- ✉️ **Email:** [dennismusembi2@gmail.com](mailto:dennismusembi2@gmail.com)  
+- 🌐 **Portfolio / Projects:** [GitHub Profile](https://github.com/Dennismwendwa)
 
 
 ### Socials
